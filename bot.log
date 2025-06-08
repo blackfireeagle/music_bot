@@ -1,0 +1,94 @@
+2025-06-08 15:51:12,574 - __main__ - INFO - Запуск бота...
+2025-06-08 15:51:12,774 - __main__ - INFO - Бот начал поллинг...
+2025-06-08 15:51:12,774 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 15:51:12,818 - aiogram.dispatcher - INFO - Run polling for bot @songs_project_bot id=7751717744 - 'Songs Bot'
+2025-06-08 15:51:15,178 - root - INFO - User 880121201 sent: /start
+2025-06-08 15:51:15,340 - aiogram.event - INFO - Update id=325838506 is handled. Duration 163 ms by bot id=7751717744
+2025-06-08 15:51:16,915 - root - INFO - User 880121201 sent: 🎵 Найти песню
+2025-06-08 15:51:16,994 - aiogram.event - INFO - Update id=325838507 is handled. Duration 80 ms by bot id=7751717744
+2025-06-08 15:51:20,390 - root - INFO - User 880121201 sent: Lunch
+2025-06-08 15:51:20,450 - handlers - INFO - Поиск песен по запросу: Lunch
+2025-06-08 15:51:20,455 - aiogram.event - INFO - Update id=325838508 is handled. Duration 67 ms by bot id=7751717744
+2025-06-08 15:51:22,632 - root - INFO - User 880121201 sent: ⭐ Избранное
+2025-06-08 15:51:22,693 - aiogram.event - INFO - Update id=325838509 is handled. Duration 63 ms by bot id=7751717744
+2025-06-08 15:51:23,667 - root - INFO - User 880121201 sent: 🌍 Язык
+2025-06-08 15:51:23,733 - aiogram.event - INFO - Update id=325838510 is handled. Duration 68 ms by bot id=7751717744
+2025-06-08 15:51:24,815 - aiogram.event - INFO - Update id=325838511 is handled. Duration 123 ms by bot id=7751717744
+2025-06-08 15:51:27,046 - root - INFO - User 880121201 sent: 🌍 Language
+2025-06-08 15:51:27,138 - aiogram.event - INFO - Update id=325838512 is handled. Duration 94 ms by bot id=7751717744
+2025-06-08 15:51:28,113 - aiogram.event - INFO - Update id=325838513 is handled. Duration 145 ms by bot id=7751717744
+2025-06-08 15:51:30,015 - root - INFO - User 880121201 sent: ℹ️ О проекте
+2025-06-08 15:51:30,118 - aiogram.event - INFO - Update id=325838514 is handled. Duration 105 ms by bot id=7751717744
+2025-06-08 15:51:31,657 - root - INFO - User 880121201 sent: 🌍 Язык
+2025-06-08 15:51:31,717 - aiogram.event - INFO - Update id=325838515 is handled. Duration 63 ms by bot id=7751717744
+2025-06-08 15:51:32,603 - aiogram.event - INFO - Update id=325838516 is handled. Duration 124 ms by bot id=7751717744
+2025-06-08 15:51:33,190 - root - INFO - User 880121201 sent: ℹ️ About
+2025-06-08 15:51:33,258 - aiogram.event - INFO - Update id=325838517 is handled. Duration 70 ms by bot id=7751717744
+2025-06-08 15:51:40,867 - aiogram.event - INFO - Update id=325838518 is handled. Duration 611 ms by bot id=7751717744
+2025-06-08 15:51:48,550 - root - INFO - User 880121201 sent: /help
+2025-06-08 15:51:48,684 - aiogram.event - INFO - Update id=325838519 is handled. Duration 135 ms by bot id=7751717744
+2025-06-08 15:51:54,898 - root - INFO - User 880121201 sent: /stats
+2025-06-08 15:51:55,057 - aiogram.event - INFO - Update id=325838520 is handled. Duration 159 ms by bot id=7751717744
+2025-06-08 15:52:07,082 - root - INFO - User 880121201 sent: /broadcast
+2025-06-08 15:52:07,201 - handlers - INFO - Рассылка выполнена успешно
+2025-06-08 15:52:07,361 - aiogram.event - INFO - Update id=325838521 is handled. Duration 279 ms by bot id=7751717744
+2025-06-08 16:19:03,996 - __main__ - INFO - Запуск бота...
+2025-06-08 16:19:04,283 - __main__ - INFO - Бот начал поллинг...
+2025-06-08 16:19:04,284 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 16:19:04,328 - aiogram.dispatcher - INFO - Run polling for bot @songs_project_bot id=7751717744 - 'Songs Bot'
+2025-06-08 16:19:13,591 - root - INFO - User 880121201 sent: /start
+2025-06-08 16:19:13,860 - aiogram.event - INFO - Update id=325838522 is handled. Duration 281 ms by bot id=7751717744
+2025-06-08 16:19:15,577 - root - INFO - User 880121201 sent: 🎵 Найти песню
+2025-06-08 16:19:15,663 - aiogram.event - INFO - Update id=325838523 is handled. Duration 87 ms by bot id=7751717744
+2025-06-08 16:19:18,864 - root - INFO - User 880121201 sent: lunch
+2025-06-08 16:19:18,950 - handlers - INFO - Найдены песни по запросу: lunch
+2025-06-08 16:19:18,952 - handlers - INFO - Песня "Lunch" добавлена в результаты поиска
+2025-06-08 16:19:18,938 - aiogram.event - INFO - Update id=325838524 is handled. Duration 98 ms by bot id=7751717744
+2025-06-08 16:19:20,859 - root - INFO - User 880121201 sent: 🎵 Найти песню
+2025-06-08 16:19:20,938 - aiogram.event - INFO - Update id=325838525 is handled. Duration 81 ms by bot id=7751717744
+2025-06-08 16:19:22,386 - root - INFO - User 880121201 sent: apple
+2025-06-08 16:19:22,470 - handlers - INFO - Найдены песни по запросу: apple
+2025-06-08 16:19:22,472 - handlers - INFO - Песня "Apple" добавлена в результаты поиска
+2025-06-08 16:19:22,478 - aiogram.event - INFO - Update id=325838526 is handled. Duration 95 ms by bot id=7751717744
+2025-06-08 16:19:24,443 - aiogram.event - INFO - Update id=325838527 is not handled. Duration 2 ms by bot id=7751717744
+2025-06-08 16:19:30,407 - aiogram.event - INFO - Update id=325838528 is not handled. Duration 2 ms by bot id=7751717744
+2025-06-08 16:19:38,667 - root - INFO - User 880121201 sent: /stats
+2025-06-08 16:19:38,733 - aiogram.event - INFO - Update id=325838529 is handled. Duration 66 ms by bot id=7751717744
+2025-06-08 16:23:19,723 - __main__ - INFO - Запуск бота...
+2025-06-08 16:23:19,952 - __main__ - INFO - Бот начал поллинг...
+2025-06-08 16:23:19,952 - aiogram.dispatcher - INFO - Start polling
+2025-06-08 16:23:20,001 - aiogram.dispatcher - INFO - Run polling for bot @songs_project_bot id=7751717744 - 'Songs Bot'
+2025-06-08 16:23:28,193 - root - INFO - User 880121201 sent: /start
+2025-06-08 16:23:28,472 - aiogram.event - INFO - Update id=325838530 is handled. Duration 293 ms by bot id=7751717744
+2025-06-08 16:23:30,207 - root - INFO - User 880121201 sent: 🎵 Найти песню
+2025-06-08 16:23:30,404 - aiogram.event - INFO - Update id=325838531 is handled. Duration 201 ms by bot id=7751717744
+2025-06-08 16:23:32,949 - root - INFO - User 880121201 sent: apple
+2025-06-08 16:23:33,040 - handlers - INFO - Найдены песни по запросу: apple
+2025-06-08 16:23:33,042 - handlers - INFO - Песня "Apple" добавлена в результаты поиска
+2025-06-08 16:23:33,045 - handlers - INFO - Песня "Apple" добавлена в избранное пользователя 880121201
+2025-06-08 16:23:33,066 - aiogram.event - INFO - Update id=325838532 is handled. Duration 120 ms by bot id=7751717744
+2025-06-08 16:23:35,299 - root - INFO - User 880121201 sent: ⭐ Избранное
+2025-06-08 16:23:35,360 - handlers - INFO - Отображение избранных песен пользователя 880121201
+2025-06-08 16:23:35,362 - handlers - INFO - Песня "Apple" отображена в избранном
+2025-06-08 16:23:35,365 - aiogram.event - INFO - Update id=325838533 is handled. Duration 80 ms by bot id=7751717744
+2025-06-08 16:23:36,365 - root - INFO - User 880121201 sent: ℹ️ О проекте
+2025-06-08 16:23:36,464 - aiogram.event - INFO - Update id=325838534 is handled. Duration 103 ms by bot id=7751717744
+2025-06-08 16:23:38,966 - root - INFO - User 880121201 sent: 🌍 Язык
+2025-06-08 16:23:39,054 - aiogram.event - INFO - Update id=325838535 is handled. Duration 93 ms by bot id=7751717744
+2025-06-08 16:23:40,625 - aiogram.event - INFO - Update id=325838536 is handled. Duration 150 ms by bot id=7751717744
+2025-06-08 16:23:42,947 - root - INFO - User 880121201 sent: 🎵 Find song
+2025-06-08 16:23:43,037 - aiogram.event - INFO - Update id=325838537 is handled. Duration 92 ms by bot id=7751717744
+2025-06-08 16:23:46,154 - root - INFO - User 880121201 sent: apple
+2025-06-08 16:23:46,240 - handlers - INFO - Found songs for query: apple
+2025-06-08 16:23:46,242 - handlers - INFO - Song "Apple" added to search results
+2025-06-08 16:23:46,245 - handlers - INFO - Song "Apple" added to favorites for user 880121201
+2025-06-08 16:23:46,275 - aiogram.event - INFO - Update id=325838538 is handled. Duration 122 ms by bot id=7751717744
+2025-06-08 16:23:47,508 - root - INFO - User 880121201 sent: ⭐ Favorites
+2025-06-08 16:23:47,576 - handlers - INFO - Displaying favorites for user 880121201
+2025-06-08 16:23:47,578 - handlers - INFO - Song "Apple" displayed in favorites
+2025-06-08 16:23:47,581 - aiogram.event - INFO - Update id=325838539 is handled. Duration 134 ms by bot id=7751717744
+2025-06-08 16:24:11,384 - root - INFO - User 880121201 sent: /stats
+2025-06-08 16:24:11,484 - aiogram.event - INFO - Update id=325838540 is handled. Duration 104 ms by bot id=7751717744
+2025-06-08 16:24:16,305 - root - INFO - User 880121201 sent: /broadcast
+2025-06-08 16:24:16,542 - handlers - INFO - Broadcast completed successfully
+2025-06-08 16:24:16,889 - aiogram.event - INFO - Update id=325838541 is handled. Duration 583 ms by bot id=7751717744
